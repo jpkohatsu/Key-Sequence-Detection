@@ -1,1 +1,1 @@
-# Key-Sequence-Detection
+# Key-Sequence-Detection ('wesbos' secret code)
